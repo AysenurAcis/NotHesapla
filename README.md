@@ -12,4 +12,6 @@ Saati güncel olarak sistem saatini yazmalı. <br>
 -HTML <br>
 -CSS <br>
 
-<img src=
+<img src="Not Hesaplama/assests/login.png/"><br>
+<img src="Not Hesaplama/assests/NotEkle.png/"><br>
+<img src="Not Hesaplama/assests/NotHesapla.png/"><br>
